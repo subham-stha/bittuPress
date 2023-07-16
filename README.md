@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bittuPress
 - 👀 I’m interested in new technologies and excited to work with real time projects
-- 🌱 I’m currently learning java,python,react.js
+- 🌱 I’m currently learning Node.js,python,react.js
 - 💞️ I’m looking to collaborate on plugin development and problem solving methods.
 - 📫 How to reach me ...you can email me at contact@ssubham.com
 
