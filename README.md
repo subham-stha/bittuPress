@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bittuPress
+- 👋 Hi, I’m Subham Shrestha
 - 👀 I’m interested in new technologies and excited to work with real time projects
 - 🌱 I’m currently learning Node.js,python,react.js
 - 💞️ I’m looking to collaborate on plugin development and problem solving methods.
